@@ -9,3 +9,9 @@ It was used internally at Motion Twin for developping web games.
 Motion Types can generate Flash 7 SWF or [neko](https://nekovm.org) bytecode.
 
 This repository contains windows binaries of the compiler (mtypes.exe) and the standard library for Flash.
+
+## Licenses
+
+The Motion Types compiler is released under the [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+The standard library is released under the MIT license.
